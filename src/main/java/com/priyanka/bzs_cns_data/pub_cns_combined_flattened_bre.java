@@ -17590,11 +17590,11 @@ public class pub_cns_combined_flattened_bre implements java.io.Serializable {
 		this.data_npd_attr_1 = data_npd_attr_1;
 	}
 
-	public java.lang.String getData_npd_attr_59() {
+	public long getData_npd_attr_59() {
 		return this.data_npd_attr_59;
 	}
 
-	public void setData_npd_attr_59(java.lang.String data_npd_attr_59) {
+	public void setData_npd_attr_59(long data_npd_attr_59) {
 		this.data_npd_attr_59 = data_npd_attr_59;
 	}
 
