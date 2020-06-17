@@ -1,10 +1,10 @@
-package com.bzs_cns_mon.pub_bzs_cns_all_bre_data_rule_publish_1;
+package com.priyanka.bzs_cns_data;
 
 import java.math.*;
 import java.lang.Object;
 import java.util.*;
 
-public class pub_cns_combined_flattened_bre implements java.io.Serializable 
+public class pojo_3rd_set_changes implements java.io.Serializable 
 {
 
 	private java.lang.String panelist_panelist_attr_100;
